@@ -8,24 +8,9 @@
 ### Per review of the rideshare data, results were noted as follows:
 ![Fig8.png](analysis/Fig8.png)
 
-
-
-
-total rides, total drivers, total Fares, av fare per ride and driver , total fare by city type 
-### Per review of the rideshare data, the total number of rides in Urban cities far outweighed those in Suburban and Rural.  Urban rideshares made up 68% of total rides as noted in the figure below.  
-
-![Fig6.png](analysis/Fig6.png)
-
-### The driver counts 
-![Fig4.png](analysis/Fig4.png)
-
-
-![Fig3.png](analysis/Fig3.png)
-
-
+### The results in the figure above show that supply and demand for rides in Urban areas far outweighed those in Suburban and Rural.  This result is expected, as populations are greater and more dense in Urban areas.  The average fares per riders and drivers were higher as total rides and drivers decreased, as seen in the Rural areas.  The figure below shows the total fares by city type over the span of a four month period.    
 
 ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
-
 
 ## Summary
 
