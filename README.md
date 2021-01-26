@@ -5,7 +5,13 @@
 ### This analyis of PyBer ride data will summarize the different ride share data by city type, will draw conclusions on trends noted, and will provide business recommendations to address any disparities in the data. 
 
 ## Results
-### total rides, total drivers, total Fares, av fare per ride and driver , total fare by city type 
+### Per review of the rideshare data, results were noted as follows:
+![Fig8.png](analysis/Fig8.png)
+
+
+
+
+total rides, total drivers, total Fares, av fare per ride and driver , total fare by city type 
 ### Per review of the rideshare data, the total number of rides in Urban cities far outweighed those in Suburban and Rural.  Urban rideshares made up 68% of total rides as noted in the figure below.  
 
 ![Fig6.png](analysis/Fig6.png)
